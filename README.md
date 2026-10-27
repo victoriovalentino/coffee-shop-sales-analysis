@@ -108,4 +108,4 @@ These are preliminary and should be validated with a longer data history.
 ## Author
 **Victorio Valentino**
 Aspiring Data Analyst | Psychology Graduate (Universitas Lambung Mangkurat)
-[LinkedIn](https://www.linkedin.com/in/your-profile-url)
+[LinkedIn](https://www.linkedin.com/in/victorio-valentino-1b47b0258)
