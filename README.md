@@ -92,7 +92,7 @@ These are preliminary and should be validated with a longer data history.
 6. **Track value per order** daily and check whether weekday vs. weekend patterns hold over a longer period.
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Assumptions and Limitations
 - The analysis is based on only **50 transactions over 10 days**.
